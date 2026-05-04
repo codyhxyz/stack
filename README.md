@@ -32,6 +32,9 @@
 
 *things that augment existing software rather than standing on their own.*
 
+### Claude Code
+- 🌐 🍋 **[skills](https://github.com/codyhxyz/skills)**: my cognitive heuristics. the ways I talk to my computer.
+
 ### YouTube
 - 🌐 🍋 **[YouTube Playlist Search](https://github.com/codyhxyz/playlist-search-extension)**: filter bar for YouTube's save-to-playlist dialog. bypasses the 200-playlist cap.
 
