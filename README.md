@@ -5,7 +5,7 @@
 
 # 🧰 stack
 
-*cool software i'd recommend*
+awesome software i want people to be aware of
 
 *last updated 5/4/26*
 
