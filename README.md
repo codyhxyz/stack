@@ -3,7 +3,7 @@
   linked from github.com/codyhxyz/codyhxyz.
 -->
 
-# 🧰 stack
+# 🧰 cody's stack
 
 awesome software i think more people should be aware of
 
