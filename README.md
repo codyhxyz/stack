@@ -54,6 +54,6 @@ awesome software i think more people should be aware of
 
 <div align="center">
 
-[![🍋 make a suggestion](https://img.shields.io/badge/🍋_make_a_suggestion-FBBF24?style=for-the-badge&logoColor=000)](https://github.com/codyhxyz/stack/edit/main/README.md)
+[![🍋 make a suggestion](https://img.shields.io/badge/🍋_make_a_suggestion-FBBF24?style=for-the-badge&logoColor=000)](https://github.com/codyhxyz/stack/issues/new)
 
 </div>
