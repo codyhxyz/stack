@@ -5,7 +5,7 @@
 
 # 🧰 stack
 
-*sharing my software stack*
+*cool software i'd recommend*
 
 *last updated 5/4/26*
 
