@@ -51,3 +51,9 @@ awesome software i think more people should be aware of
 ---
 
 <sub>more recommendations coming as I add them. PRs / issues welcome. *"have you tried X?"* is a fine reason to open one.</sub>
+
+<div align="center">
+
+[![🍋 make a suggestion](https://img.shields.io/badge/🍋_make_a_suggestion-FBBF24?style=for-the-badge&logoColor=000)](https://github.com/codyhxyz/stack/edit/main/README.md)
+
+</div>
