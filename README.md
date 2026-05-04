@@ -5,7 +5,7 @@
 
 # 🧰 stack
 
-awesome software i want people to be aware of
+awesome software i think more people should be aware of
 
 *last updated 5/4/26*
 
