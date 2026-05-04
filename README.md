@@ -9,7 +9,12 @@
 
 *last updated 5/4/26*
 
-**legend:** 🌐 open-source, 🍋 made by me
+**legend:**
+
+| icon | meaning |
+|------|---------|
+| 🌐 | open-source |
+| 🍋 | made by me |
 
 ---
 
