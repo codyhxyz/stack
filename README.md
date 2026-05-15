@@ -58,8 +58,23 @@ awesome software i think more people should be aware of
 
 ---
 
+## building your own bespoke software
+
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=github.com&sz=64"/> **[create-claude-plugin](https://github.com/codyhxyz/create-claude-plugin)**: end-to-end scaffold for building & publishing Claude Code plugins. 🌐 🍋
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=github.com&sz=64"/> **[create-chrome-extension](https://github.com/codyhxyz/create-chrome-extension)**: end-to-end scaffold for building & publishing Chrome extensions. 🌐 🍋
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=github.com&sz=64"/> **create** *(in development)*: scaffold to build anything in a self-consistent manner across projects. 🌐 🍋
+
+---
+
+## dev tools
+
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=ota.run&sz=64"/> **[ota](https://github.com/ota-run/ota)**: one `ota.yaml` contract per repo — tells humans, CI, and AI agents exactly what a repo needs and how to run it. `ota doctor` / `ota up` / `ota run`. 🌐
+
+---
+
 ## knowledge tools
 
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=annas-archive.org&sz=64"/> **[Anna's Archive](https://en.wikipedia.org/wiki/Anna%27s_Archive)**: free ebooks. the largest shadow library in existence.
 - <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=github.com&sz=64"/> **[Web Annotator](https://github.com/codyhxyz/web-annotator)**: annotation layer for the web. leave & share notes about the web, on the web. 🌐 🍋
 - <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://github.com/user-attachments/assets/cc8cb730-7c16-4976-8fe7-5c3c2619bb58"/> **[Webpage Summarizer](https://github.com/codyhxyz/webpage-summarizer)**: right-click to summarize highlighted text in any Chromium browser. 🌐 🍋
 
