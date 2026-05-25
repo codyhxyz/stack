@@ -33,13 +33,8 @@ awesome software i think more people should be aware of
 
 ### Models
 
-- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=64"/> **[opencode Go](https://opencode.ai/docs/go)** — **$10/mo**: managed gateway to open coding models (GLM-5.1, Kimi K2.6, MiniMax M2.7). usage caps: $12 / 5h, $30 / week, $60 / month. overflow into pay-as-you-go via Zen balance. 🌐
-  <details>
-  <summary>related — <a href="https://x.com/jatinkrmalik/status/2051205708708970541">@jatinkrmalik on opencode Go</a></summary>
-
-  <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Bookmark this if you&#39;re on <a href="https://twitter.com/opencode?ref_src=twsrc%5Etfw">@opencode</a> Go!👇<br><br>I mapped out exactly how to use all 14 SOTA models without hitting your rate limits, which agent gets which model, how fallback chains work, and when to escalate between tiers.<br><br>Steal my setup w/ the full guide: <a href="https://t.co/FK22fK9SRK">https://t.co/FK22fK9SRK</a> <a href="https://t.co/r6eqreeF3k">https://t.co/r6eqreeF3k</a> <a href="https://t.co/q2Jd2QWM2R">pic.twitter.com/q2Jd2QWM2R</a></p>&mdash; Jatin K Malik (@jatinkrmalik) <a href="https://twitter.com/jatinkrmalik/status/2051205708708970541?ref_src=twsrc%5Etfw">May 4, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-  </details>
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=deepseek.com&sz=64"/> **[DeepSeek V4 Pro](https://api-docs.deepseek.com/quick_start/pricing)** — **daily driver**: $0.435 / M input tokens, $0.87 / M output tokens (permanent 75% price cut, effective 2026-05-31, settling at 25% of the original rate). long-context inference at ~1/4 the compute and ~1/10 the memory footprint of its predecessor — that's why the cut is permanent rather than promotional.
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=ai.google.dev&sz=64"/> **[Gemini Flash 3.5](https://ai.google.dev/gemini-api/docs/pricing)** — **latency-dependent sessions**: $1.50 / M input tokens, $9.00 / M output tokens (cached input $0.15 / M). reach for it when round-trip time matters more than per-token cost.
 
 ---
 
