@@ -104,6 +104,12 @@ awesome software i think more people should be aware of
 
 ---
 
+## see also
+
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=gist.github.com&sz=64"/> **[distbit0's stack](https://gist.github.com/distbit0/6df6026cf7285b481dcd723a65192eb8)**: a friend's list — notes/zettelkasten, reading & research, and anti-distraction tooling.
+
+---
+
 <sub>more recommendations coming as I add them. PRs / issues welcome. *"have you tried X?"* is a fine reason to open one.</sub>
 
 <div align="center">
