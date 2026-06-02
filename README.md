@@ -7,7 +7,7 @@
 
 awesome software i think more people should be aware of
 
-*last updated 5/4/26*
+*last updated 6/2/26*
 
 **legend:**
 
@@ -64,6 +64,35 @@ awesome software i think more people should be aware of
 ## dev tools
 
 - <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=ota.run&sz=64"/> **[ota](https://github.com/ota-run/ota)**: one `ota.yaml` contract per repo — tells humans, CI, and AI agents exactly what a repo needs and how to run it. `ota doctor` / `ota up` / `ota run`. 🌐
+
+---
+
+## package managers
+
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=astral.sh&sz=64"/> **[uv](https://github.com/astral-sh/uv)**: Python package & project manager, written in Rust. 10–100× faster than pip. 🌐
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=bun.sh&sz=64"/> **[bun](https://github.com/oven-sh/bun)**: JavaScript runtime, bundler, test runner & package manager in one. 🌐
+
+---
+
+## architecture
+
+*architecture decisions — 2026. each line traces the upgrade path: starting point → scale tier → enterprise tier.*
+
+- **Compute**: Hetzner CCX13 + Coolify (~$15/mo) → Render ($100–300/mo) → AWS / GCP managed ($1k+/mo, compliance)
+- **Database**: Neon free / Postgres-on-Coolify ($0) → Neon Launch ($19/mo) → Neon Scale ($69+/mo)
+- **Object storage**: Cloudflare R2 ($0.015/GB, zero egress)
+- **Edge — CDN / DNS / WAF / DDoS**: Cloudflare free ($0) → Cloudflare Pro ($25/mo)
+- **Frontend hosting**: Vercel free ($0) → Vercel Pro ($20/mo) → Cloudflare Workers + OpenNext (once Vercel bills exceed $200/mo)
+- **Auth**: Neon Auth
+- **Email**: Resend free (3k/mo) → Resend Pro ($20/mo)
+- **AI inference**: OpenRouter as gateway — Groq / Cerebras for raw TPS, DeepSeek V4-Pro for pareto-curve intelligence
+- **Monitoring / uptime**: BetterStack free (10 monitors + status page) → BetterStack paid ($21–29/mo)
+- **Error tracking**: PostHog Error Tracking (free, 100k errors/mo) → PostHog Cloud (usage-based)
+- **Product analytics**: PostHog self-hosted on Coolify (free) → PostHog Cloud (1M events free)
+- **Background jobs / queues**: pg-boss / Graphile Worker ($0, Postgres-backed) → Trigger.dev v3 ($10/mo, Apache 2.0)
+- **Vector embeddings** (AI-native only): pgvector on Postgres ($0, up to ~10M vectors) → Turbopuffer / Cloudflare Vectorize (scale)
+- **Payments**: Stripe
+- **CI/CD**: GitHub Actions hosted → self-hosted runner on existing Hetzner box
 
 ---
 
