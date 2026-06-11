@@ -99,8 +99,7 @@ awesome software i think more people should be aware of
 ## knowledge tools
 
 - <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=annas-archive.org&sz=64"/> **[Anna's Archive](https://en.wikipedia.org/wiki/Anna%27s_Archive)**: free ebooks. the largest shadow library in existence.
-- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=github.com&sz=64"/> **[Web Annotator](https://github.com/codyhxyz/web-annotator)**: annotation layer for the web. leave & share notes about the web, on the web. 🌐 🍋
-- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://github.com/user-attachments/assets/cc8cb730-7c16-4976-8fe7-5c3c2619bb58"/> **[Webpage Summarizer](https://github.com/codyhxyz/webpage-summarizer)**: right-click to summarize highlighted text in any Chromium browser. 🌐 🍋
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=github.com&sz=64"/> **[Web Annotator]([https://github.com/codyhxyz/web-annotator](https://chromewebstore.google.com/detail/page-marker-draw-on-web/jfiihjeimjpkpoaekpdpllpaeichkiod/reviews))**: take notes on what you read, or remind yourself what you need to do on the page.
 
 ---
 
@@ -110,7 +109,7 @@ awesome software i think more people should be aware of
 
 ---
 
-<sub>more recommendations coming as I add them. PRs / issues welcome. *"have you tried X?"* is a fine reason to open one.</sub>
+<sub>Suggestions welcome.</sub>
 
 <div align="center">
 
