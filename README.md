@@ -7,7 +7,7 @@
 
 awesome software i think more people should be aware of
 
-*last updated 6/2/26*
+*last updated 6/11/26*
 
 **legend:**
 
