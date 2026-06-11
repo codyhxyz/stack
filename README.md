@@ -61,23 +61,13 @@ awesome software i think more people should be aware of
 
 ---
 
-## dev tools
-
-- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=ota.run&sz=64"/> **[ota](https://github.com/ota-run/ota)**: one `ota.yaml` contract per repo — tells humans, CI, and AI agents exactly what a repo needs and how to run it. `ota doctor` / `ota up` / `ota run`. 🌐
-
----
-
-## package managers
-
-- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=astral.sh&sz=64"/> **[uv](https://github.com/astral-sh/uv)**: Python package & project manager, written in Rust. 10–100× faster than pip. 🌐
-- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=bun.sh&sz=64"/> **[bun](https://github.com/oven-sh/bun)**: JavaScript runtime, bundler, test runner & package manager in one. 🌐
-
----
 
 ## architecture
 
-*architecture decisions — 2026. each line traces the upgrade path: starting point → scale tier → enterprise tier.*
+*chosen architecture — 2026.*
 
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=astral.sh&sz=64"/> **[uv](https://github.com/astral-sh/uv)**: Python package & project manager, written in Rust. 10–100× faster than pip. 🌐
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=bun.sh&sz=64"/> **[bun](https://github.com/oven-sh/bun)**: JavaScript runtime, bundler, test runner & package manager in one. 🌐
 - **Compute**: Hetzner CCX13 + Coolify (~$15/mo) → Render ($100–300/mo) → AWS / GCP managed ($1k+/mo, compliance)
 - **Database**: Neon free / Postgres-on-Coolify ($0) → Neon Launch ($19/mo) → Neon Scale ($69+/mo)
 - **Object storage**: Cloudflare R2 ($0.015/GB, zero egress)
