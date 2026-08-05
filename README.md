@@ -7,7 +7,7 @@
 
 awesome software i think more people should be aware of
 
-*last updated 6/11/26*
+*last updated 8/4/26*
 
 **legend:**
 
@@ -23,6 +23,7 @@ awesome software i think more people should be aware of
 - <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=raycast.com&sz=64"/> **[Raycast](https://raycast.com)**: launcher / clipboard / window manager. Spotlight replacement.
 - <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=cap.so&sz=64"/> **[Cap](https://cap.so)**: open-source Loom replacement. screen recording with shareable links. 🌐
 - <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://www.google.com/s2/favicons?domain=github.com&sz=64"/> **[Muesli](https://github.com/pHequals7/muesli)**: WisprFlow + Granola in one. local voice dictation + meeting transcription on Apple Silicon. 🌐
+- <img style="display:inline-block;width:20px;height:20px;vertical-align:middle;margin-bottom:4px;pointer-events:none;" alt="" src="https://raw.githubusercontent.com/gitmichaelqiu/VTPlayer/main/VTPlayerIcon.png"/> **[VTPlayer](https://github.com/gitmichaelqiu/VTPlayer)**: native macOS/iOS player with real-time VideoToolbox ML interpolation, upscaling, denoising & HDR enhancement. 🌐
 
 ---
 
@@ -107,3 +108,5 @@ awesome software i think more people should be aware of
 [![🍋 make a suggestion](https://img.shields.io/badge/🍋_make_a_suggestion-FBBF24?style=for-the-badge&logoColor=000)](https://github.com/codyhxyz/stack/issues/new)
 
 </div>
+
+note to self: redo my repo app icons inspired by https://github.com/gitmichaelqiu
